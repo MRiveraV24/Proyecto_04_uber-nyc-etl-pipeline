@@ -159,8 +159,6 @@ Esta sección es crucial para un portafolio de GitHub, ya que permite a otros re
 4.  **Conexión con Power BI (Opcional)**:
     *   Conecta Power BI a las tablas Delta de la capa Gold a través del `Databricks SQL Analytics Endpoint`.
 
-#### **Licencia**
-[MIT License](LICENSE) (o la que elijas)
 
 ---
 
