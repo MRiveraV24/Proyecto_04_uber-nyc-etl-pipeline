@@ -11,11 +11,34 @@
 <artifact identifier="readme-uber-etl" type="text/markdown" title="README.md para Repositorio GitHub">
 # 🚖 Uber NYC ETL Pipeline - Arquitectura Medallion
 
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+📋 Descripción del Proyecto
+Pipeline ETL profesional de extremo a extremo para el análisis de 4.5+ millones de viajes de Uber en NYC (2014), implementando una arquitectura de lago de datos tipo Medallion con tres capas (Bronze, Silver, Gold). El proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando tecnologías cloud-native y mejores prácticas de la industria.
+🎯 Características Principales
+
+✅ Arquitectura Medallion completa (Bronze → Silver → Gold)
+✅ Procesamiento distribuido con Apache Spark
+✅ Transacciones ACID mediante Delta Lake
+✅ Ingeniería de características automatizada
+✅ Data Quality validations en cada capa
+✅ 5 tablas Gold especializadas para analytics
+✅ Dashboard ejecutivo con SQL analytics
+✅ 100% reproducible en Databricks Community Edition
+
+
+🎯 Objetivos del Proyecto
+Objetivos de Negocio
+
+Analizar patrones de demanda temporal y geográfica de Uber NYC
+Identificar hotspots de alta concentración de viajes
+Optimizar operaciones mediante insights de horas pico y rendimiento por base
+Generar KPIs ejecutivos para toma de decisiones estratégicas
+
+Objetivos Técnicos
+
+Construir un pipeline ETL escalable y mantenible
+Implementar mejores prácticas de Data Engineering
+Demostrar experiencia con Databricks, Spark y Delta Lake
+Crear un portafolio profesional de ingeniería de datos
 
 
 #### **Resumen Ejecutivo**
