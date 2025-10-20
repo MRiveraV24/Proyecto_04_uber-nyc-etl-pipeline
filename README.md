@@ -2,6 +2,15 @@
 
 ---
 
+# Sales ETL Pipeline
+
+![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+
+
+
+
 #### **Resumen Ejecutivo**
 Describe brevemente el proyecto y sus objetivos principales.
 Este proyecto establece una robusta **canalización de datos ETL (Extracción, Transformación, Carga)** para analizar los datos de viajes de Uber en la ciudad de Nueva York durante el período de **abril a septiembre de 2014**. Utilizando una **arquitectura Medallón (Bronze, Silver, Gold)** implementada en **Databricks Free Edition**, la solución ingesta datos crudos, los limpia y enriquece, y finalmente los agrega en un formato optimizado para el análisis de negocio. El objetivo principal es proporcionar **insights accionables** sobre patrones de demanda, rendimiento de bases y distribución geográfica de los viajes, permitiendo la toma de decisiones informadas.
