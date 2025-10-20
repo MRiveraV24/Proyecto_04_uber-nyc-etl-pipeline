@@ -11,7 +11,7 @@
 <artifact identifier="readme-uber-etl" type="text/markdown" title="README.md para Repositorio GitHub">
 # 🚖 Uber NYC ETL Pipeline - Arquitectura Medallion
 
-📋 Descripción del Proyecto
+## 📋 Descripción del Proyecto
 Pipeline ETL profesional de extremo a extremo para el análisis de 4.5+ millones de viajes de Uber en NYC (2014), implementando una arquitectura de lago de datos tipo Medallion con tres capas (Bronze, Silver, Gold). El proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando tecnologías cloud-native y mejores prácticas de la industria.
 🎯 Características Principales
 
