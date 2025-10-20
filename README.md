@@ -25,6 +25,13 @@ Pipeline ETL profesional de extremo a extremo para el análisis de 4.5+ millones
 ✅ 100% reproducible en Databricks Community Edition
 
 
+
+## 📁 Estructura del Proyecto
+
+sales-etl-pipeline/ ├── data/ # Datos raw y procesados ├── src/ # Código fuente ├── notebooks/ # Análisis exploratorio ├── tests/ # Tests unitarios └── config/ # Archivos de configuración
+
+
+
 🎯 Objetivos del Proyecto
 Objetivos de Negocio
 
