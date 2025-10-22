@@ -83,7 +83,7 @@ Este proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando
 
 ### Plataforma
 
-- **Databricks Community Edition** - Plataforma de procesamiento
+- **Databricks Free Edition** - Plataforma de procesamiento
 - **Delta Lake** - Storage layer con ACID transactions
 - **Apache Spark** - Motor de procesamiento distribuido
 - **Jupyter Notebooks** - Desarrollo interactivo
@@ -436,7 +436,7 @@ Este proyecto está licenciado bajo la **MIT License** - ver el archivo [LICENSE
 
 ## 👤 Autor
 
-**[Marcelo Rivera Vega]**
+**Marcelo Rivera Vega**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-rivera-vega/)
