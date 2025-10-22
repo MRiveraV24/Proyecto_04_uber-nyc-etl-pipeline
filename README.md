@@ -17,7 +17,7 @@
 
 ## 📋 Descripción
 
-Pipeline ETL de extremo a extremo para el análisis de **4.5+ millones de viajes de Uber en Nueva York** (abril-septiembre 2014), implementando una arquitectura de lago de datos tipo **Medallion** con tres capas (Bronze, Silver, Gold). 
+Pipeline ETL End To End para el análisis de **4.5+ millones de viajes de Uber en Nueva York** (abril-septiembre 2014), implementando una arquitectura de lago de datos tipo **Medallion** con tres capas (Bronze, Silver, Gold). 
 
 Este proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando tecnologías cloud-native y mejores prácticas de la industria para transformar datos crudos en insights accionables de negocio.
 
@@ -32,7 +32,7 @@ Este proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando
 **Objetivos Técnicos:**
 - Construir un pipeline ETL escalable y mantenible
 - Implementar mejores prácticas de Data Engineering
-- Demostrar experiencia con Databricks, Spark y Delta Lake
+- Demostrar experiencia con Databricks, PySpark y Delta Lake
 - Crear un portafolio profesional de ingeniería de datos
 
 ---
