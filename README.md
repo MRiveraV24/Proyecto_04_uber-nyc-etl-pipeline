@@ -47,7 +47,7 @@ Este proyecto demuestra capacidades avanzadas de ingeniería de datos utilizando
 ✅ Validaciones de Data Quality en cada capa
 ✅ 5 tablas Gold especializadas para analytics
 ✅ Dashboard ejecutivo con SQL analytics
-✅ 100% reproducible en Databricks Community Edition
+✅ 100% reproducible en Databricks Free Edition
 ```
 
 ---
@@ -199,14 +199,14 @@ graph LR
 ### Prerrequisitos
 
 - Python 3.9 o superior
-- Cuenta en [Databricks Community Edition](https://community.cloud.databricks.com/) (gratuita)
+- Cuenta en [Databricks Free Edition](https://www.databricks.com/learn/free-edition) (gratuita)
 - Git instalado
 
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/uber-nyc-etl-pipeline.git
-cd uber-nyc-etl-pipeline
+git clone https://github.com/MRiveraV24/Proyecto_04_uber-nyc-etl-pipeline.git
+cd Proyecto_04_uber-nyc-etl-pipeline
 ```
 
 ### Paso 2: Configurar Entorno Virtual
@@ -230,7 +230,7 @@ pip install -r requirements.txt
 
 ### Paso 4: Configurar Databricks
 
-1. Crear cuenta gratuita en [Databricks Community Edition](https://community.cloud.databricks.com/)
+1. Crear cuenta gratuita en [Databricks Free Edition](https://www.databricks.com/learn/free-edition/)
 2. Crear un nuevo Workspace
 3. Importar los notebooks desde la carpeta `notebooks/`
 4. Subir los datos CSV a DBFS (Databricks File System)
@@ -436,18 +436,18 @@ Este proyecto está licenciado bajo la **MIT License** - ver el archivo [LICENSE
 
 ## 👤 Autor
 
-**[Tu Nombre Completo]**
+**[Marcelo Rivera Vega]**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-rivera-vega/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRiveraV24)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.marcelo.rivera.vega@gmail.com )
 
 ---
 
 ## 🙏 Agradecimientos
 
-- **Databricks Community Edition** por proporcionar infraestructura gratuita
+- **Databricks Free Edition** por proporcionar infraestructura gratuita
 - **Kaggle** por el dataset de Uber NYC
 - **Delta Lake** por su excelente documentación
 - **Apache Spark Community** por el framework robusto
